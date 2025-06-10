@@ -1,11 +1,2810 @@
 [
-  {"frota": "100000", "placa": "ADM"},
-  {"frota": "193897", "placa": "RAE3987"},
-  {"frota": "144454", "placa": "MLY4454"},
-  {"frota": "195067", "placa": "RAE5067"},
-  // ... (todos os seus dados aqui - mantive apenas 4 para exemplo)
-  {"frota": "102160", "placa": "SXD2G60"},
-  {"frota": "104031", "placa": "SXH4E31"},
-  {"frota": "101363", "placa": "SXU1C63"},
-  {"frota": "107074", "placa": "SXL7A74"}
+  {
+    "frota": "100000",
+    "placa": "ADM"
+  },
+  {
+    "frota": "193897",
+    "placa": "RAE3987"
+  },
+  {
+    "frota": "144454",
+    "placa": "MLY4454"
+  },
+  {
+    "frota": "195067",
+    "placa": "RAE5067"
+  },
+  {
+    "frota": "193817",
+    "placa": "RAE3817"
+  },
+  {
+    "frota": "142244",
+    "placa": "MFU2244"
+  },
+  {
+    "frota": "140032",
+    "placa": "QHJ0032"
+  },
+  {
+    "frota": "150540",
+    "placa": "QHP0540"
+  },
+  {
+    "frota": "151005",
+    "placa": "QHQ1005"
+  },
+  {
+    "frota": "163017",
+    "placa": "QHW3017"
+  },
+  {
+    "frota": "162157",
+    "placa": "QHW2157"
+  },
+  {
+    "frota": "187802",
+    "placa": "QJK7802"
+  },
+  {
+    "frota": "194767",
+    "placa": "RAE4767"
+  },
+  {
+    "frota": "177339",
+    "placa": "QIJ7339"
+  },
+  {
+    "frota": "180963",
+    "placa": "QIX0963"
+  },
+  {
+    "frota": "176919",
+    "placa": "QIJ6919"
+  },
+  {
+    "frota": "161266",
+    "placa": "QHU1266"
+  },
+  {
+    "frota": "179943",
+    "placa": "QII9943"
+  },
+  {
+    "frota": "212019",
+    "placa": "RLH2D19"
+  },
+  {
+    "frota": "211049",
+    "placa": "RLH1A49"
+  },
+  {
+    "frota": "141682",
+    "placa": "MMI1682"
+  },
+  {
+    "frota": "143046",
+    "placa": "MMC3046"
+  },
+  {
+    "frota": "187049",
+    "placa": "QJR7049"
+  },
+  {
+    "frota": "162217",
+    "placa": "QHW2217"
+  },
+  {
+    "frota": "178113",
+    "placa": "QIL8113"
+  },
+  {
+    "frota": "170275",
+    "placa": "QIL0275"
+  },
+  {
+    "frota": "170335",
+    "placa": "QIL0335"
+  },
+  {
+    "frota": "181043",
+    "placa": "QIX1043"
+  },
+  {
+    "frota": "180913",
+    "placa": "QIX0913"
+  },
+  {
+    "frota": "187177",
+    "placa": "QJG7177"
+  },
+  {
+    "frota": "180057",
+    "placa": "QJH0057"
+  },
+  {
+    "frota": "184437",
+    "placa": "QJH4437"
+  },
+  {
+    "frota": "184359",
+    "placa": "QJK4359"
+  },
+  {
+    "frota": "186619",
+    "placa": "QJR6619"
+  },
+  {
+    "frota": "195343",
+    "placa": "QJL5343"
+  },
+  {
+    "frota": "197023",
+    "placa": "QJL7023"
+  },
+  {
+    "frota": "195013",
+    "placa": "QJO5013"
+  },
+  {
+    "frota": "195544",
+    "placa": "MME5544"
+  },
+  {
+    "frota": "198015",
+    "placa": "QJR8015"
+  },
+  {
+    "frota": "197105",
+    "placa": "QJR7105"
+  },
+  {
+    "frota": "199545",
+    "placa": "QJR9545"
+  },
+  {
+    "frota": "190145",
+    "placa": "QJS0145"
+  },
+  {
+    "frota": "191765",
+    "placa": "QJS1765"
+  },
+  {
+    "frota": "195666",
+    "placa": "OKD5666"
+  },
+  {
+    "frota": "195526",
+    "placa": "OKD5526"
+  },
+  {
+    "frota": "195256",
+    "placa": "OKD5256"
+  },
+  {
+    "frota": "193354",
+    "placa": "RAE3354"
+  },
+  {
+    "frota": "192574",
+    "placa": "RAE2574"
+  },
+  {
+    "frota": "194044",
+    "placa": "RAE4044"
+  },
+  {
+    "frota": "193004",
+    "placa": "RAE3004"
+  },
+  {
+    "frota": "195034",
+    "placa": "RAF5034"
+  },
+  {
+    "frota": "195072",
+    "placa": "RAD5C72"
+  },
+  {
+    "frota": "198029",
+    "placa": "RAF8029"
+  },
+  {
+    "frota": "200083",
+    "placa": "QTK0E83"
+  },
+  {
+    "frota": "200093",
+    "placa": "QTK0C93"
+  },
+  {
+    "frota": "201093",
+    "placa": "QTK1I93"
+  },
+  {
+    "frota": "209023",
+    "placa": "QJZ9A23"
+  },
+  {
+    "frota": "201033",
+    "placa": "QTK1H33"
+  },
+  {
+    "frota": "207017",
+    "placa": "RDU7F17"
+  },
+  {
+    "frota": "206087",
+    "placa": "RDU6J87"
+  },
+  {
+    "frota": "208047",
+    "placa": "RDU8F47"
+  },
+  {
+    "frota": "206047",
+    "placa": "RKZ6E47"
+  },
+  {
+    "frota": "207027",
+    "placa": "RLD7H27"
+  },
+  {
+    "frota": "209097",
+    "placa": "RLD9D97"
+  },
+  {
+    "frota": "200069",
+    "placa": "RDV0D69"
+  },
+  {
+    "frota": "209019",
+    "placa": "RDU9H19"
+  },
+  {
+    "frota": "200059",
+    "placa": "REA0J59"
+  },
+  {
+    "frota": "219052",
+    "placa": "RKX9H52"
+  },
+  {
+    "frota": "218063",
+    "placa": "RLA8B63"
+  },
+  {
+    "frota": "213013",
+    "placa": "RLA3J13"
+  },
+  {
+    "frota": "215083",
+    "placa": "RLA5G83"
+  },
+  {
+    "frota": "217033",
+    "placa": "RLK7F33"
+  },
+  {
+    "frota": "212023",
+    "placa": "RLD2H23"
+  },
+  {
+    "frota": "212063",
+    "placa": "RLD2A63"
+  },
+  {
+    "frota": "216004",
+    "placa": "RKY6F04"
+  },
+  {
+    "frota": "215094",
+    "placa": "RKY5I94"
+  },
+  {
+    "frota": "212034",
+    "placa": "RLB2H34"
+  },
+  {
+    "frota": "212045",
+    "placa": "RKX2D45"
+  },
+  {
+    "frota": "212025",
+    "placa": "RKX2C25"
+  },
+  {
+    "frota": "215055",
+    "placa": "RKZ5C55"
+  },
+  {
+    "frota": "214065",
+    "placa": "RKZ4I65"
+  },
+  {
+    "frota": "218015",
+    "placa": "RLB8C15"
+  },
+  {
+    "frota": "217085",
+    "placa": "RLB7F85"
+  },
+  {
+    "frota": "217065",
+    "placa": "RLB7G65"
+  },
+  {
+    "frota": "219035",
+    "placa": "RLB9A35"
+  },
+  {
+    "frota": "213045",
+    "placa": "RLF3B45"
+  },
+  {
+    "frota": "213015",
+    "placa": "RLF3H15"
+  },
+  {
+    "frota": "214045",
+    "placa": "RLF4A45"
+  },
+  {
+    "frota": "214085",
+    "placa": "RLF4E85"
+  },
+  {
+    "frota": "214055",
+    "placa": "RLF4F55"
+  },
+  {
+    "frota": "211005",
+    "placa": "RLH1G05"
+  },
+  {
+    "frota": "211085",
+    "placa": "RLH1C85"
+  },
+  {
+    "frota": "216065",
+    "placa": "RLH6D65"
+  },
+  {
+    "frota": "217095",
+    "placa": "RLH7A95"
+  },
+  {
+    "frota": "219086",
+    "placa": "RLD9B86"
+  },
+  {
+    "frota": "215016",
+    "placa": "RLD5G16"
+  },
+  {
+    "frota": "217027",
+    "placa": "RLN7E27"
+  },
+  {
+    "frota": "219047",
+    "placa": "RLN9H47"
+  },
+  {
+    "frota": "214037",
+    "placa": "RXK4I37"
+  },
+  {
+    "frota": "218077",
+    "placa": "RXR8H77"
+  },
+  {
+    "frota": "218027",
+    "placa": "RXR8J27"
+  },
+  {
+    "frota": "213058",
+    "placa": "RLL3I58"
+  },
+  {
+    "frota": "218067",
+    "placa": "RXR8F67"
+  },
+  {
+    "frota": "218097",
+    "placa": "RXR8G97"
+  },
+  {
+    "frota": "210027",
+    "placa": "RXS0H27"
+  },
+  {
+    "frota": "213017",
+    "placa": "RXT3J17"
+  },
+  {
+    "frota": "216089",
+    "placa": "RXK6J89"
+  },
+  {
+    "frota": "217009",
+    "placa": "RXK7A09"
+  },
+  {
+    "frota": "218010",
+    "placa": "RLN8B10"
+  },
+  {
+    "frota": "217020",
+    "placa": "RLN7E20"
+  },
+  {
+    "frota": "216040",
+    "placa": "RLN6H40"
+  },
+  {
+    "frota": "217060",
+    "placa": "RLN7D60"
+  },
+  {
+    "frota": "226061",
+    "placa": "RLM6G61"
+  },
+  {
+    "frota": "226161",
+    "placa": "RLM6B61"
+  },
+  {
+    "frota": "222021",
+    "placa": "RLO2B21"
+  },
+  {
+    "frota": "220091",
+    "placa": "RLO0B91"
+  },
+  {
+    "frota": "226011",
+    "placa": "RLM6A11"
+  },
+  {
+    "frota": "226071",
+    "placa": "RLO6A71"
+  },
+  {
+    "frota": "226021",
+    "placa": "RLO6H21"
+  },
+  {
+    "frota": "227081",
+    "placa": "RXO7C81"
+  },
+  {
+    "frota": "228061",
+    "placa": "RXO8A61"
+  },
+  {
+    "frota": "229081",
+    "placa": "RXO9B81"
+  },
+  {
+    "frota": "220051",
+    "placa": "RXP0A51"
+  },
+  {
+    "frota": "220001",
+    "placa": "RXP0B01"
+  },
+  {
+    "frota": "221071",
+    "placa": "RXP1C71"
+  },
+  {
+    "frota": "213011",
+    "placa": "RXT3B11"
+  },
+  {
+    "frota": "213081",
+    "placa": "RXT3A81"
+  },
+  {
+    "frota": "229012",
+    "placa": "RXP9C12"
+  },
+  {
+    "frota": "229082",
+    "placa": "RXP9A82"
+  },
+  {
+    "frota": "229182",
+    "placa": "RXP9E82"
+  },
+  {
+    "frota": "228032",
+    "placa": "RXQ8E32"
+  },
+  {
+    "frota": "227052",
+    "placa": "RXQ7H52"
+  },
+  {
+    "frota": "228092",
+    "placa": "RXQ8H92"
+  },
+  {
+    "frota": "228132",
+    "placa": "RXQ8J32"
+  },
+  {
+    "frota": "229002",
+    "placa": "RXQ9E02"
+  },
+  {
+    "frota": "229052",
+    "placa": "RXQ9E52"
+  },
+  {
+    "frota": "229102",
+    "placa": "RXQ9I02"
+  },
+  {
+    "frota": "222002",
+    "placa": "RXS2A02"
+  },
+  {
+    "frota": "210082",
+    "placa": "RXS0J82"
+  },
+  {
+    "frota": "220054",
+    "placa": "RXO0G54"
+  },
+  {
+    "frota": "224014",
+    "placa": "RXN4F14"
+  },
+  {
+    "frota": "224064",
+    "placa": "RXN4G64"
+  },
+  {
+    "frota": "224024",
+    "placa": "RXN4H24"
+  },
+  {
+    "frota": "222065",
+    "placa": "RXR2E65"
+  },
+  {
+    "frota": "228015",
+    "placa": "RXP8A15"
+  },
+  {
+    "frota": "227095",
+    "placa": "RXP7C95"
+  },
+  {
+    "frota": "221035",
+    "placa": "RXR1A35"
+  },
+  {
+    "frota": "221025",
+    "placa": "RXQ1H25"
+  },
+  {
+    "frota": "220035",
+    "placa": "RXQ0E35"
+  },
+  {
+    "frota": "229078",
+    "placa": "RYA9B78"
+  },
+  {
+    "frota": "225078",
+    "placa": "RYD5J78"
+  },
+  {
+    "frota": "220098",
+    "placa": "RYB0C98"
+  },
+  {
+    "frota": "221048",
+    "placa": "RYB1C48"
+  },
+  {
+    "frota": "220028",
+    "placa": "RYB0A28"
+  },
+  {
+    "frota": "239010",
+    "placa": "RXR9E10"
+  },
+  {
+    "frota": "239050",
+    "placa": "RXR9F50"
+  },
+  {
+    "frota": "239090",
+    "placa": "RXR9G90"
+  },
+  {
+    "frota": "230040",
+    "placa": "RXS0B40"
+  },
+  {
+    "frota": "231030",
+    "placa": "RXS1E30"
+  },
+  {
+    "frota": "238061",
+    "placa": "RXX8C61"
+  },
+  {
+    "frota": "234021",
+    "placa": "RXX4G21"
+  },
+  {
+    "frota": "237051",
+    "placa": "RXX7E51"
+  },
+  {
+    "frota": "236071",
+    "placa": "RXX6C71"
+  },
+  {
+    "frota": "235061",
+    "placa": "RXX5F61"
+  },
+  {
+    "frota": "234071",
+    "placa": "RYG4A71"
+  },
+  {
+    "frota": "233001",
+    "placa": "RYG3C01"
+  },
+  {
+    "frota": "232081",
+    "placa": "RYG2J81"
+  },
+  {
+    "frota": "233031",
+    "placa": "RYG3H31"
+  },
+  {
+    "frota": "236171",
+    "placa": "RYG6B71"
+  },
+  {
+    "frota": "235081",
+    "placa": "RYG5B81"
+  },
+  {
+    "frota": "231052",
+    "placa": "RYD1B52"
+  },
+  {
+    "frota": "231022",
+    "placa": "RXY1H22"
+  },
+  {
+    "frota": "231062",
+    "placa": "RXY1F62"
+  },
+  {
+    "frota": "236012",
+    "placa": "RYA6F12"
+  },
+  {
+    "frota": "237052",
+    "placa": "RYA7E52"
+  },
+  {
+    "frota": "234032",
+    "placa": "RYB4H32"
+  },
+  {
+    "frota": "235032",
+    "placa": "RYB5F32"
+  },
+  {
+    "frota": "231002",
+    "placa": "RYB1C02"
+  },
+  {
+    "frota": "236112",
+    "placa": "RYB6E12"
+  },
+  {
+    "frota": "238092",
+    "placa": "RYB8A92"
+  },
+  {
+    "frota": "232032",
+    "placa": "RYE2A32"
+  },
+  {
+    "frota": "237083",
+    "placa": "RYF7E83"
+  },
+  {
+    "frota": "233003",
+    "placa": "RYI3F03"
+  },
+  {
+    "frota": "239024",
+    "placa": "RYC9B24"
+  },
+  {
+    "frota": "237034",
+    "placa": "RYC7F34"
+  },
+  {
+    "frota": "238054",
+    "placa": "RYC8F54"
+  },
+  {
+    "frota": "230044",
+    "placa": "RYD0B44"
+  },
+  {
+    "frota": "230084",
+    "placa": "RYD0C84"
+  },
+  {
+    "frota": "232084",
+    "placa": "RYG2D84"
+  },
+  {
+    "frota": "230055",
+    "placa": "RYN0B55"
+  },
+  {
+    "frota": "230085",
+    "placa": "RYL0B85"
+  },
+  {
+    "frota": "230056",
+    "placa": "PZB0C56"
+  },
+  {
+    "frota": "230050",
+    "placa": "PZB0C50"
+  },
+  {
+    "frota": "230155",
+    "placa": "PZB0C55"
+  },
+  {
+    "frota": "230058",
+    "placa": "PZB0C58"
+  },
+  {
+    "frota": "230052",
+    "placa": "PZB0C52"
+  },
+  {
+    "frota": "230051",
+    "placa": "PZB0C51"
+  },
+  {
+    "frota": "230057",
+    "placa": "RYV0G57"
+  },
+  {
+    "frota": "236028",
+    "placa": "RYT6I28"
+  },
+  {
+    "frota": "236069",
+    "placa": "RYV6I69"
+  },
+  {
+    "frota": "247073",
+    "placa": "RYZ7A73"
+  },
+  {
+    "frota": "243063",
+    "placa": "SXA3A63"
+  },
+  {
+    "frota": "240083",
+    "placa": "SXA0H83"
+  },
+  {
+    "frota": "241053",
+    "placa": "SXA1E53"
+  },
+  {
+    "frota": "247044",
+    "placa": "RYV7H44"
+  },
+  {
+    "frota": "247074",
+    "placa": "RYV7B74"
+  },
+  {
+    "frota": "248004",
+    "placa": "RYV8F04"
+  },
+  {
+    "frota": "248024",
+    "placa": "RYV8G24"
+  },
+  {
+    "frota": "247094",
+    "placa": "RYV7C94"
+  },
+  {
+    "frota": "248054",
+    "placa": "RYV8C54"
+  },
+  {
+    "frota": "240084",
+    "placa": "SXC0A84"
+  },
+  {
+    "frota": "249084",
+    "placa": "SXB9J84"
+  },
+  {
+    "frota": "248014",
+    "placa": "SXB8E14"
+  },
+  {
+    "frota": "248104",
+    "placa": "SXB8A04"
+  },
+  {
+    "frota": "247054",
+    "placa": "SXB7D54"
+  },
+  {
+    "frota": "248094",
+    "placa": "RYX8C94"
+  },
+  {
+    "frota": "248204",
+    "placa": "RYX8F04"
+  },
+  {
+    "frota": "244014",
+    "placa": "RYY4G14"
+  },
+  {
+    "frota": "241074",
+    "placa": "RYY1A74"
+  },
+  {
+    "frota": "245064",
+    "placa": "RYX5I64"
+  },
+  {
+    "frota": "242014",
+    "placa": "RYY2H14"
+  },
+  {
+    "frota": "241045",
+    "placa": "RYS1E45"
+  },
+  {
+    "frota": "241095",
+    "placa": "RYS1J95"
+  },
+  {
+    "frota": "248025",
+    "placa": "RYS8C25"
+  },
+  {
+    "frota": "240184",
+    "placa": "SXJ0C84"
+  },
+  {
+    "frota": "245055",
+    "placa": "SXJ5B55"
+  },
+  {
+    "frota": "244015",
+    "placa": "SXJ4F15"
+  },
+  {
+    "frota": "249086",
+    "placa": "RYU9G86"
+  },
+  {
+    "frota": "249085",
+    "placa": "SXK9B85"
+  },
+  {
+    "frota": "190029",
+    "placa": "LYL0G29"
+  },
+  {
+    "frota": "249186",
+    "placa": "SXH9C86"
+  },
+  {
+    "frota": "240066",
+    "placa": "SXI0A66"
+  },
+  {
+    "frota": "240097",
+    "placa": "SXM0C97"
+  },
+  {
+    "frota": "246087",
+    "placa": "SXM6J87"
+  },
+  {
+    "frota": "247067",
+    "placa": "SXM7A67"
+  },
+  {
+    "frota": "242068",
+    "placa": "SXB2C68"
+  },
+  {
+    "frota": "243028",
+    "placa": "SXB3E28"
+  },
+  {
+    "frota": "243048",
+    "placa": "SXB3H48"
+  },
+  {
+    "frota": "240096",
+    "placa": "SXM0B96"
+  },
+  {
+    "frota": "248068",
+    "placa": "SXL8E68"
+  },
+  {
+    "frota": "248048",
+    "placa": "SXL8J48"
+  },
+  {
+    "frota": "249048",
+    "placa": "SXL9G48"
+  },
+  {
+    "frota": "240068",
+    "placa": "SXM0B68"
+  },
+  {
+    "frota": "240038",
+    "placa": "SXM0G38"
+  },
+  {
+    "frota": "241068",
+    "placa": "SXM1D68"
+  },
+  {
+    "frota": "243008",
+    "placa": "SXM3H08"
+  },
+  {
+    "frota": "243018",
+    "placa": "SXM3H18"
+  },
+  {
+    "frota": "245008",
+    "placa": "SXM5A08"
+  },
+  {
+    "frota": "247038",
+    "placa": "SXM7E38"
+  },
+  {
+    "frota": "248058",
+    "placa": "SXM8A58"
+  },
+  {
+    "frota": "248018",
+    "placa": "SXM8H18"
+  },
+  {
+    "frota": "245028",
+    "placa": "SXO5H28"
+  },
+  {
+    "frota": "104871",
+    "placa": "MJX4871"
+  },
+  {
+    "frota": "104037",
+    "placa": "MKJ4037"
+  },
+  {
+    "frota": "103997",
+    "placa": "MKJ3997"
+  },
+  {
+    "frota": "109901",
+    "placa": "MMK9901"
+  },
+  {
+    "frota": "100231",
+    "placa": "MML0231"
+  },
+  {
+    "frota": "108931",
+    "placa": "MMK8931"
+  },
+  {
+    "frota": "107541",
+    "placa": "MMK7541"
+  },
+  {
+    "frota": "109254",
+    "placa": "MLL9254"
+  },
+  {
+    "frota": "105035",
+    "placa": "MKD5035"
+  },
+  {
+    "frota": "108015",
+    "placa": "MLJ8015"
+  },
+  {
+    "frota": "105386",
+    "placa": "MKX5386"
+  },
+  {
+    "frota": "105456",
+    "placa": "MKX5456"
+  },
+  {
+    "frota": "108096",
+    "placa": "MLC8096"
+  },
+  {
+    "frota": "102646",
+    "placa": "MLC2646"
+  },
+  {
+    "frota": "104159",
+    "placa": "MKJ4159"
+  },
+  {
+    "frota": "106059",
+    "placa": "MKJ6059"
+  },
+  {
+    "frota": "109949",
+    "placa": "MKJ9949"
+  },
+  {
+    "frota": "108281",
+    "placa": "OYC8281"
+  },
+  {
+    "frota": "100129",
+    "placa": "MKK0129"
+  },
+  {
+    "frota": "101049",
+    "placa": "MKR1049"
+  },
+  {
+    "frota": "109575",
+    "placa": "MMD9575"
+  },
+  {
+    "frota": "103492",
+    "placa": "MMA3492"
+  },
+  {
+    "frota": "101022",
+    "placa": "MMC1022"
+  },
+  {
+    "frota": "105572",
+    "placa": "MMC5572"
+  },
+  {
+    "frota": "103053",
+    "placa": "MLO3053"
+  },
+  {
+    "frota": "101874",
+    "placa": "MDB1874"
+  },
+  {
+    "frota": "100354",
+    "placa": "MFU0354"
+  },
+  {
+    "frota": "109974",
+    "placa": "MDB9974"
+  },
+  {
+    "frota": "106364",
+    "placa": "MDB6364"
+  },
+  {
+    "frota": "103334",
+    "placa": "MCU3334"
+  },
+  {
+    "frota": "100985",
+    "placa": "MMF0985"
+  },
+  {
+    "frota": "106115",
+    "placa": "MMF6115"
+  },
+  {
+    "frota": "105215",
+    "placa": "MMF5215"
+  },
+  {
+    "frota": "102835",
+    "placa": "MMF2835"
+  },
+  {
+    "frota": "104838",
+    "placa": "MMK4838"
+  },
+  {
+    "frota": "101679",
+    "placa": "MLW1679"
+  },
+  {
+    "frota": "100198",
+    "placa": "MMK0198"
+  },
+  {
+    "frota": "107188",
+    "placa": "MMK7188"
+  },
+  {
+    "frota": "109818",
+    "placa": "MMJ9818"
+  },
+  {
+    "frota": "106215",
+    "placa": "QHM6115"
+  },
+  {
+    "frota": "104882",
+    "placa": "QHK4882"
+  },
+  {
+    "frota": "101572",
+    "placa": "QHL1572"
+  },
+  {
+    "frota": "103312",
+    "placa": "QHL3312"
+  },
+  {
+    "frota": "108092",
+    "placa": "QHJ8092"
+  },
+  {
+    "frota": "101232",
+    "placa": "QHJ1232"
+  },
+  {
+    "frota": "104615",
+    "placa": "QHM4615"
+  },
+  {
+    "frota": "100542",
+    "placa": "QHK0542"
+  },
+  {
+    "frota": "102602",
+    "placa": "QHK2602"
+  },
+  {
+    "frota": "106362",
+    "placa": "QHJ6362"
+  },
+  {
+    "frota": "108792",
+    "placa": "QHJ8792"
+  },
+  {
+    "frota": "105042",
+    "placa": "QHK5042"
+  },
+  {
+    "frota": "107776",
+    "placa": "QHG7776"
+  },
+  {
+    "frota": "109008",
+    "placa": "QHY9008"
+  },
+  {
+    "frota": "109730",
+    "placa": "QIF9730"
+  },
+  {
+    "frota": "106153",
+    "placa": "QIJ6153"
+  },
+  {
+    "frota": "106723",
+    "placa": "QIJ6723"
+  },
+  {
+    "frota": "108453",
+    "placa": "QIJ8453"
+  },
+  {
+    "frota": "100395",
+    "placa": "QIL0395"
+  },
+  {
+    "frota": "103865",
+    "placa": "QIL3865"
+  },
+  {
+    "frota": "100943",
+    "placa": "QIK0943"
+  },
+  {
+    "frota": "102263",
+    "placa": "QIK2263"
+  },
+  {
+    "frota": "104433",
+    "placa": "QIK4433"
+  },
+  {
+    "frota": "107038",
+    "placa": "QIQ7038"
+  },
+  {
+    "frota": "106488",
+    "placa": "QIQ6488"
+  },
+  {
+    "frota": "105868",
+    "placa": "QIQ5868"
+  },
+  {
+    "frota": "105331",
+    "placa": "QJH5331"
+  },
+  {
+    "frota": "105851",
+    "placa": "QJH5851"
+  },
+  {
+    "frota": "106031",
+    "placa": "QJH6031"
+  },
+  {
+    "frota": "101042",
+    "placa": "QJM1042"
+  },
+  {
+    "frota": "105543",
+    "placa": "QIX5543"
+  },
+  {
+    "frota": "101053",
+    "placa": "QIX1053"
+  },
+  {
+    "frota": "101633",
+    "placa": "QIX1633"
+  },
+  {
+    "frota": "100655",
+    "placa": "QIV0655"
+  },
+  {
+    "frota": "100165",
+    "placa": "QIV0165"
+  },
+  {
+    "frota": "109665",
+    "placa": "QIU9665"
+  },
+  {
+    "frota": "101045",
+    "placa": "QIV1045"
+  },
+  {
+    "frota": "109015",
+    "placa": "QIU9015"
+  },
+  {
+    "frota": "100147",
+    "placa": "QJH0147"
+  },
+  {
+    "frota": "106656",
+    "placa": "QJC6656"
+  },
+  {
+    "frota": "109807",
+    "placa": "QJG9807"
+  },
+  {
+    "frota": "108977",
+    "placa": "QJG8977"
+  },
+  {
+    "frota": "102058",
+    "placa": "QJD2058"
+  },
+  {
+    "frota": "101548",
+    "placa": "QJD1548"
+  },
+  {
+    "frota": "103318",
+    "placa": "QJK3318"
+  },
+  {
+    "frota": "104048",
+    "placa": "QJK4048"
+  },
+  {
+    "frota": "106039",
+    "placa": "QJP6039"
+  },
+  {
+    "frota": "104299",
+    "placa": "QJP4299"
+  },
+  {
+    "frota": "100323",
+    "placa": "QJQ0323"
+  },
+  {
+    "frota": "106063",
+    "placa": "QJO6063"
+  },
+  {
+    "frota": "102063",
+    "placa": "QJS2063"
+  },
+  {
+    "frota": "100393",
+    "placa": "QJV0393"
+  },
+  {
+    "frota": "107474",
+    "placa": "QJE7474"
+  },
+  {
+    "frota": "108054",
+    "placa": "QJE8054"
+  },
+  {
+    "frota": "108444",
+    "placa": "QJE8444"
+  },
+  {
+    "frota": "107484",
+    "placa": "QJY7484"
+  },
+  {
+    "frota": "108834",
+    "placa": "QJY8834"
+  },
+  {
+    "frota": "109064",
+    "placa": "QJY9064"
+  },
+  {
+    "frota": "101074",
+    "placa": "QJZ1074"
+  },
+  {
+    "frota": "105084",
+    "placa": "QJZ5084"
+  },
+  {
+    "frota": "104424",
+    "placa": "QJZ4424"
+  },
+  {
+    "frota": "107764",
+    "placa": "QJZ7764"
+  },
+  {
+    "frota": "109474",
+    "placa": "QJZ9474"
+  },
+  {
+    "frota": "109924",
+    "placa": "QJZ9924"
+  },
+  {
+    "frota": "100104",
+    "placa": "QTK0104"
+  },
+  {
+    "frota": "100474",
+    "placa": "QTK0474"
+  },
+  {
+    "frota": "101044",
+    "placa": "QTK1044"
+  },
+  {
+    "frota": "100065",
+    "placa": "QJZ0065"
+  },
+  {
+    "frota": "101545",
+    "placa": "QJZ1545"
+  },
+  {
+    "frota": "101025",
+    "placa": "QJZ1025"
+  },
+  {
+    "frota": "100375",
+    "placa": "QJZ0375"
+  },
+  {
+    "frota": "100885",
+    "placa": "QJZ0885"
+  },
+  {
+    "frota": "105856",
+    "placa": "QJS5856"
+  },
+  {
+    "frota": "108066",
+    "placa": "QJS8066"
+  },
+  {
+    "frota": "108116",
+    "placa": "QJS8116"
+  },
+  {
+    "frota": "105757",
+    "placa": "RAE5757"
+  },
+  {
+    "frota": "106677",
+    "placa": "RAE6677"
+  },
+  {
+    "frota": "106797",
+    "placa": "RAE6797"
+  },
+  {
+    "frota": "107017",
+    "placa": "RAE7017"
+  },
+  {
+    "frota": "107747",
+    "placa": "RAE7747"
+  },
+  {
+    "frota": "108017",
+    "placa": "RAE8017"
+  },
+  {
+    "frota": "100027",
+    "placa": "RAF0027"
+  },
+  {
+    "frota": "100797",
+    "placa": "RAF0797"
+  },
+  {
+    "frota": "104478",
+    "placa": "RAG4478"
+  },
+  {
+    "frota": "105008",
+    "placa": "RAG5008"
+  },
+  {
+    "frota": "106068",
+    "placa": "RAG6068"
+  },
+  {
+    "frota": "106408",
+    "placa": "RAG6408"
+  },
+  {
+    "frota": "106898",
+    "placa": "RAG6898"
+  },
+  {
+    "frota": "107058",
+    "placa": "RAG7058"
+  },
+  {
+    "frota": "106148",
+    "placa": "RAG6148"
+  },
+  {
+    "frota": "108038",
+    "placa": "RAG8038"
+  },
+  {
+    "frota": "108618",
+    "placa": "RAG8618"
+  },
+  {
+    "frota": "108788",
+    "placa": "RAG8788"
+  },
+  {
+    "frota": "109038",
+    "placa": "RAG9038"
+  },
+  {
+    "frota": "108848",
+    "placa": "RAG8848"
+  },
+  {
+    "frota": "101012",
+    "placa": "RAE1H12"
+  },
+  {
+    "frota": "102012",
+    "placa": "RAE2F12"
+  },
+  {
+    "frota": "106092",
+    "placa": "RAD6H92"
+  },
+  {
+    "frota": "106052",
+    "placa": "RAD6J52"
+  },
+  {
+    "frota": "107042",
+    "placa": "RAD7B42"
+  },
+  {
+    "frota": "107052",
+    "placa": "RAD7A52"
+  },
+  {
+    "frota": "107002",
+    "placa": "RAD7E02"
+  },
+  {
+    "frota": "107142",
+    "placa": "RAD7C42"
+  },
+  {
+    "frota": "103033",
+    "placa": "QJZ3H33"
+  },
+  {
+    "frota": "103073",
+    "placa": "QJZ3J73"
+  },
+  {
+    "frota": "105033",
+    "placa": "QJZ5F33"
+  },
+  {
+    "frota": "108043",
+    "placa": "QJZ8G43"
+  },
+  {
+    "frota": "109063",
+    "placa": "QJZ9J63"
+  },
+  {
+    "frota": "101023",
+    "placa": "RDS1D23"
+  },
+  {
+    "frota": "105063",
+    "placa": "RDV5J63"
+  },
+  {
+    "frota": "102015",
+    "placa": "RAJ2J15"
+  },
+  {
+    "frota": "103015",
+    "placa": "RAJ3D15"
+  },
+  {
+    "frota": "104055",
+    "placa": "RAJ4B55"
+  },
+  {
+    "frota": "103065",
+    "placa": "RAJ3A65"
+  },
+  {
+    "frota": "100087",
+    "placa": "RDY0C87"
+  },
+  {
+    "frota": "101037",
+    "placa": "RDY1E37"
+  },
+  {
+    "frota": "102007",
+    "placa": "RDY2C07"
+  },
+  {
+    "frota": "109027",
+    "placa": "RLC9D27"
+  },
+  {
+    "frota": "109077",
+    "placa": "RLC9F77"
+  },
+  {
+    "frota": "100037",
+    "placa": "RLD0A37"
+  },
+  {
+    "frota": "105018",
+    "placa": "RKW5E18"
+  },
+  {
+    "frota": "105098",
+    "placa": "RKW5J98"
+  },
+  {
+    "frota": "106048",
+    "placa": "RKW6G48"
+  },
+  {
+    "frota": "107048",
+    "placa": "RKW7C48"
+  },
+  {
+    "frota": "107028",
+    "placa": "RKW7A28"
+  },
+  {
+    "frota": "107068",
+    "placa": "RKW7B68"
+  },
+  {
+    "frota": "100029",
+    "placa": "RLB0A29"
+  },
+  {
+    "frota": "109099",
+    "placa": "RLA9H99"
+  },
+  {
+    "frota": "101090",
+    "placa": "RAJ1B90"
+  },
+  {
+    "frota": "107049",
+    "placa": "RLC7H49"
+  },
+  {
+    "frota": "102050",
+    "placa": "RAJ2E50"
+  },
+  {
+    "frota": "101030",
+    "placa": "RAJ1H30"
+  },
+  {
+    "frota": "108070",
+    "placa": "RAI8J70"
+  },
+  {
+    "frota": "102060",
+    "placa": "RAJ2C60"
+  },
+  {
+    "frota": "103080",
+    "placa": "RAJ3G80"
+  },
+  {
+    "frota": "103090",
+    "placa": "RAJ3F90"
+  },
+  {
+    "frota": "102041",
+    "placa": "RKY2J41"
+  },
+  {
+    "frota": "107152",
+    "placa": "RLD7D52"
+  },
+  {
+    "frota": "107082",
+    "placa": "RLD7H82"
+  },
+  {
+    "frota": "107022",
+    "placa": "RLD7B22"
+  },
+  {
+    "frota": "102163",
+    "placa": "RLD2B63"
+  },
+  {
+    "frota": "101033",
+    "placa": "RLD1G33"
+  },
+  {
+    "frota": "103153",
+    "placa": "RLD3A53"
+  },
+  {
+    "frota": "108014",
+    "placa": "RKX8B14"
+  },
+  {
+    "frota": "107094",
+    "placa": "RKX7C94"
+  },
+  {
+    "frota": "103013",
+    "placa": "RLH3A13"
+  },
+  {
+    "frota": "104063",
+    "placa": "RLH4B63"
+  },
+  {
+    "frota": "105064",
+    "placa": "RLG5I64"
+  },
+  {
+    "frota": "100035",
+    "placa": "RKY0A35"
+  },
+  {
+    "frota": "109005",
+    "placa": "RKX9H05"
+  },
+  {
+    "frota": "102075",
+    "placa": "RKY2F75"
+  },
+  {
+    "frota": "109025",
+    "placa": "RLC9B25"
+  },
+  {
+    "frota": "108055",
+    "placa": "RLC8C55"
+  },
+  {
+    "frota": "107055",
+    "placa": "RLC7A55"
+  },
+  {
+    "frota": "109035",
+    "placa": "RLC9D35"
+  },
+  {
+    "frota": "106005",
+    "placa": "RLC6G05"
+  },
+  {
+    "frota": "109215",
+    "placa": "RLC9A15"
+  },
+  {
+    "frota": "104095",
+    "placa": "RLF4G95"
+  },
+  {
+    "frota": "104025",
+    "placa": "RLF4C25"
+  },
+  {
+    "frota": "106105",
+    "placa": "RLF6C05"
+  },
+  {
+    "frota": "105095",
+    "placa": "RLF5G95"
+  },
+  {
+    "frota": "106015",
+    "placa": "RLF6D15"
+  },
+  {
+    "frota": "107005",
+    "placa": "RLH7F05"
+  },
+  {
+    "frota": "109125",
+    "placa": "RLH9I25"
+  },
+  {
+    "frota": "108045",
+    "placa": "RLH8H45"
+  },
+  {
+    "frota": "108065",
+    "placa": "RLH8J65"
+  },
+  {
+    "frota": "109115",
+    "placa": "RLH9B15"
+  },
+  {
+    "frota": "105045",
+    "placa": "RLL5I45"
+  },
+  {
+    "frota": "103036",
+    "placa": "RLE3I36"
+  },
+  {
+    "frota": "109016",
+    "placa": "RLF9J16"
+  },
+  {
+    "frota": "102057",
+    "placa": "RLO2C57"
+  },
+  {
+    "frota": "102067",
+    "placa": "RLO2D67"
+  },
+  {
+    "frota": "102077",
+    "placa": "RXP2C77"
+  },
+  {
+    "frota": "103087",
+    "placa": "RXP3D87"
+  },
+  {
+    "frota": "100057",
+    "placa": "RXP0G57"
+  },
+  {
+    "frota": "105198",
+    "placa": "RLL5H98"
+  },
+  {
+    "frota": "105058",
+    "placa": "RLL5F58"
+  },
+  {
+    "frota": "106058",
+    "placa": "RLL6A58"
+  },
+  {
+    "frota": "100088",
+    "placa": "RXK0A88"
+  },
+  {
+    "frota": "108078",
+    "placa": "RLP8D78"
+  },
+  {
+    "frota": "106020",
+    "placa": "RLB6I20"
+  },
+  {
+    "frota": "106060",
+    "placa": "RLB6F60"
+  },
+  {
+    "frota": "103070",
+    "placa": "RLB3E70"
+  },
+  {
+    "frota": "100010",
+    "placa": "RLB0C10"
+  },
+  {
+    "frota": "109040",
+    "placa": "RLA9B40"
+  },
+  {
+    "frota": "103060",
+    "placa": "RLA3H60"
+  },
+  {
+    "frota": "102090",
+    "placa": "RLA2A90"
+  },
+  {
+    "frota": "109080",
+    "placa": "RKZ9C80"
+  },
+  {
+    "frota": "102019",
+    "placa": "RLO2I19"
+  },
+  {
+    "frota": "105060",
+    "placa": "RLN5G60"
+  },
+  {
+    "frota": "106080",
+    "placa": "RLN6A80"
+  },
+  {
+    "frota": "106040",
+    "placa": "RLN6D40"
+  },
+  {
+    "frota": "105160",
+    "placa": "RLN5F60"
+  },
+  {
+    "frota": "104077",
+    "placa": "MHW4J77"
+  },
+  {
+    "frota": "105052",
+    "placa": "RDT5F52"
+  },
+  {
+    "frota": "105142",
+    "placa": "MLY5I42"
+  },
+  {
+    "frota": "107062",
+    "placa": "MLC7B62"
+  },
+  {
+    "frota": "100048",
+    "placa": "RLI0E48"
+  },
+  {
+    "frota": "108099",
+    "placa": "RLB8G99"
+  },
+  {
+    "frota": "104059",
+    "placa": "RDV4I59"
+  },
+  {
+    "frota": "105164",
+    "placa": "QIZ5D64"
+  },
+  {
+    "frota": "100071",
+    "placa": "RLO0F71"
+  },
+  {
+    "frota": "100031",
+    "placa": "RLO0H31"
+  },
+  {
+    "frota": "108011",
+    "placa": "RLN8A11"
+  },
+  {
+    "frota": "107091",
+    "placa": "RLN7F91"
+  },
+  {
+    "frota": "107041",
+    "placa": "RLN7E41"
+  },
+  {
+    "frota": "107001",
+    "placa": "RLN7D01"
+  },
+  {
+    "frota": "107191",
+    "placa": "RLN7B91"
+  },
+  {
+    "frota": "100081",
+    "placa": "RXO0A81"
+  },
+  {
+    "frota": "105061",
+    "placa": "RXO5D61"
+  },
+  {
+    "frota": "109051",
+    "placa": "RXN9H51"
+  },
+  {
+    "frota": "109021",
+    "placa": "RXN9C21"
+  },
+  {
+    "frota": "105161",
+    "placa": "RXQ5E61"
+  },
+  {
+    "frota": "103071",
+    "placa": "RXQ3A71"
+  },
+  {
+    "frota": "100022",
+    "placa": "RXN0B22"
+  },
+  {
+    "frota": "109032",
+    "placa": "RXM9E32"
+  },
+  {
+    "frota": "108022",
+    "placa": "RXS8E22"
+  },
+  {
+    "frota": "108052",
+    "placa": "RXS8D52"
+  },
+  {
+    "frota": "101063",
+    "placa": "RLL1I63"
+  },
+  {
+    "frota": "101123",
+    "placa": "RLL1H23"
+  },
+  {
+    "frota": "102013",
+    "placa": "RLL2B13"
+  },
+  {
+    "frota": "103113",
+    "placa": "RLL3A13"
+  },
+  {
+    "frota": "103043",
+    "placa": "RLL3A43"
+  },
+  {
+    "frota": "105003",
+    "placa": "RXR5H03"
+  },
+  {
+    "frota": "106013",
+    "placa": "RXR6A13"
+  },
+  {
+    "frota": "108083",
+    "placa": "RUG8I83"
+  },
+  {
+    "frota": "108084",
+    "placa": "RUG8I84"
+  },
+  {
+    "frota": "108085",
+    "placa": "RUG8F85"
+  },
+  {
+    "frota": "108080",
+    "placa": "RUG8I80"
+  },
+  {
+    "frota": "108077",
+    "placa": "RUG8I77"
+  },
+  {
+    "frota": "101024",
+    "placa": "RXS1C24"
+  },
+  {
+    "frota": "104014",
+    "placa": "RXS4B14"
+  },
+  {
+    "frota": "108064",
+    "placa": "RXS8E64"
+  },
+  {
+    "frota": "100024",
+    "placa": "RXT0I24"
+  },
+  {
+    "frota": "104074",
+    "placa": "RXT4F74"
+  },
+  {
+    "frota": "109044",
+    "placa": "RXT9A44"
+  },
+  {
+    "frota": "106095",
+    "placa": "RXS6H95"
+  },
+  {
+    "frota": "108185",
+    "placa": "RXS8E85"
+  },
+  {
+    "frota": "100095",
+    "placa": "RXT0B95"
+  },
+  {
+    "frota": "100015",
+    "placa": "RXT0H15"
+  },
+  {
+    "frota": "102035",
+    "placa": "RXU2B35"
+  },
+  {
+    "frota": "105005",
+    "placa": "RXU5C05"
+  },
+  {
+    "frota": "103143",
+    "placa": "RLL3I43"
+  },
+  {
+    "frota": "100016",
+    "placa": "RYE0A16"
+  },
+  {
+    "frota": "101026",
+    "placa": "RYE1A26"
+  },
+  {
+    "frota": "109036",
+    "placa": "RYD9H36"
+  },
+  {
+    "frota": "105044",
+    "placa": "RVM5D44"
+  },
+  {
+    "frota": "105020",
+    "placa": "RVM5D20"
+  },
+  {
+    "frota": "105152",
+    "placa": "RVM5D52"
+  },
+  {
+    "frota": "105015",
+    "placa": "RVM5J15"
+  },
+  {
+    "frota": "105007",
+    "placa": "RVM5D07"
+  },
+  {
+    "frota": "104058",
+    "placa": "RYA4I58"
+  },
+  {
+    "frota": "105048",
+    "placa": "RYA5B48"
+  },
+  {
+    "frota": "105068",
+    "placa": "RYA5F68"
+  },
+  {
+    "frota": "106018",
+    "placa": "RYA6A18"
+  },
+  {
+    "frota": "108018",
+    "placa": "RYA8B18"
+  },
+  {
+    "frota": "106089",
+    "placa": "RXM6A89"
+  },
+  {
+    "frota": "107149",
+    "placa": "RXM7C49"
+  },
+  {
+    "frota": "108039",
+    "placa": "RXM8A39"
+  },
+  {
+    "frota": "109079",
+    "placa": "RXM9H79"
+  },
+  {
+    "frota": "100059",
+    "placa": "RXN0C59"
+  },
+  {
+    "frota": "105069",
+    "placa": "RXM5C69"
+  },
+  {
+    "frota": "109029",
+    "placa": "RXQ9A29"
+  },
+  {
+    "frota": "100229",
+    "placa": "RXR0B29"
+  },
+  {
+    "frota": "108009",
+    "placa": "RXQ8J09"
+  },
+  {
+    "frota": "103059",
+    "placa": "RXR3C59"
+  },
+  {
+    "frota": "102069",
+    "placa": "RXR2H69"
+  },
+  {
+    "frota": "105009",
+    "placa": "RXU5G09"
+  },
+  {
+    "frota": "106029",
+    "placa": "RXU6C29"
+  },
+  {
+    "frota": "107079",
+    "placa": "RXU7A79"
+  },
+  {
+    "frota": "108139",
+    "placa": "RXU8C39"
+  },
+  {
+    "frota": "109049",
+    "placa": "RXU9J49"
+  },
+  {
+    "frota": "101010",
+    "placa": "RXS1F10"
+  },
+  {
+    "frota": "101020",
+    "placa": "RXS1H20"
+  },
+  {
+    "frota": "102070",
+    "placa": "RXS2A70"
+  },
+  {
+    "frota": "103040",
+    "placa": "RXS3F40"
+  },
+  {
+    "frota": "104030",
+    "placa": "RXS4A30"
+  },
+  {
+    "frota": "101051",
+    "placa": "RXY1C51"
+  },
+  {
+    "frota": "100061",
+    "placa": "RXY0A61"
+  },
+  {
+    "frota": "109061",
+    "placa": "RXX9H61"
+  },
+  {
+    "frota": "102001",
+    "placa": "RXY2G01"
+  },
+  {
+    "frota": "109081",
+    "placa": "RXX9E81"
+  },
+  {
+    "frota": "102011",
+    "placa": "RYD2H11"
+  },
+  {
+    "frota": "103081",
+    "placa": "RYD3A81"
+  },
+  {
+    "frota": "102061",
+    "placa": "RYD2E61"
+  },
+  {
+    "frota": "105081",
+    "placa": "RYD5I81"
+  },
+  {
+    "frota": "106061",
+    "placa": "RYD6H61"
+  },
+  {
+    "frota": "108071",
+    "placa": "RYD8F71"
+  },
+  {
+    "frota": "102141",
+    "placa": "RYB2H41"
+  },
+  {
+    "frota": "103021",
+    "placa": "RYB3A21"
+  },
+  {
+    "frota": "103061",
+    "placa": "RYB3C61"
+  },
+  {
+    "frota": "103091",
+    "placa": "RYB3D91"
+  },
+  {
+    "frota": "100041",
+    "placa": "RYC0B41"
+  },
+  {
+    "frota": "103161",
+    "placa": "RYB3E61"
+  },
+  {
+    "frota": "104071",
+    "placa": "RYB4A71"
+  },
+  {
+    "frota": "105031",
+    "placa": "RYB5C31"
+  },
+  {
+    "frota": "105041",
+    "placa": "RYB5G41"
+  },
+  {
+    "frota": "107291",
+    "placa": "RYC7G91"
+  },
+  {
+    "frota": "106051",
+    "placa": "RYB6E51"
+  },
+  {
+    "frota": "106151",
+    "placa": "RYB6H51"
+  },
+  {
+    "frota": "107011",
+    "placa": "RYB7F11"
+  },
+  {
+    "frota": "109001",
+    "placa": "RYB9H01"
+  },
+  {
+    "frota": "100161",
+    "placa": "RYC0A61"
+  },
+  {
+    "frota": "107092",
+    "placa": "RYH7F92"
+  },
+  {
+    "frota": "108012",
+    "placa": "RYH8A12"
+  },
+  {
+    "frota": "109062",
+    "placa": "RYH9A62"
+  },
+  {
+    "frota": "106082",
+    "placa": "RYH6J82"
+  },
+  {
+    "frota": "100122",
+    "placa": "RYI0B22"
+  },
+  {
+    "frota": "100042",
+    "placa": "RYI0F42"
+  },
+  {
+    "frota": "101032",
+    "placa": "RYI1C32"
+  },
+  {
+    "frota": "102062",
+    "placa": "RYI2E62"
+  },
+  {
+    "frota": "104082",
+    "placa": "RYI4B82"
+  },
+  {
+    "frota": "105032",
+    "placa": "RYI5B32"
+  },
+  {
+    "frota": "108063",
+    "placa": "RYA8H63"
+  },
+  {
+    "frota": "104013",
+    "placa": "RYP4B13"
+  },
+  {
+    "frota": "106044",
+    "placa": "RYB6D44"
+  },
+  {
+    "frota": "105144",
+    "placa": "RYB5A44"
+  },
+  {
+    "frota": "103084",
+    "placa": "RYB3A84"
+  },
+  {
+    "frota": "102004",
+    "placa": "RYB2E04"
+  },
+  {
+    "frota": "102074",
+    "placa": "RYB2C74"
+  },
+  {
+    "frota": "109014",
+    "placa": "RYH9H14"
+  },
+  {
+    "frota": "100054",
+    "placa": "RYI0E54"
+  },
+  {
+    "frota": "102054",
+    "placa": "RYN2E54"
+  },
+  {
+    "frota": "102024",
+    "placa": "RYN2H24"
+  },
+  {
+    "frota": "103014",
+    "placa": "RYN3A14"
+  },
+  {
+    "frota": "103034",
+    "placa": "RYN3H34"
+  },
+  {
+    "frota": "103026",
+    "placa": "RYL3F26"
+  },
+  {
+    "frota": "104036",
+    "placa": "RYL4A36"
+  },
+  {
+    "frota": "106066",
+    "placa": "RYL6B66"
+  },
+  {
+    "frota": "104017",
+    "placa": "RAA4G17"
+  },
+  {
+    "frota": "102017",
+    "placa": "RYS2D17"
+  },
+  {
+    "frota": "104087",
+    "placa": "RYR4F87"
+  },
+  {
+    "frota": "107057",
+    "placa": "RYQ7B57"
+  },
+  {
+    "frota": "104057",
+    "placa": "RYQ4C57"
+  },
+  {
+    "frota": "103067",
+    "placa": "RYQ3D67"
+  },
+  {
+    "frota": "100077",
+    "placa": "RYR0A77"
+  },
+  {
+    "frota": "108037",
+    "placa": "RYU8H37"
+  },
+  {
+    "frota": "101007",
+    "placa": "RYV1B07"
+  },
+  {
+    "frota": "103048",
+    "placa": "RYK3C48"
+  },
+  {
+    "frota": "102018",
+    "placa": "RYK2D18"
+  },
+  {
+    "frota": "101018",
+    "placa": "RYY1A18"
+  },
+  {
+    "frota": "100148",
+    "placa": "RYY0G48"
+  },
+  {
+    "frota": "106099",
+    "placa": "RYV6A99"
+  },
+  {
+    "frota": "105079",
+    "placa": "RYV5I79"
+  },
+  {
+    "frota": "101059",
+    "placa": "RYW1G59"
+  },
+  {
+    "frota": "102051",
+    "placa": "RYN2E51"
+  },
+  {
+    "frota": "104001",
+    "placa": "RYW4E01"
+  },
+  {
+    "frota": "102082",
+    "placa": "RYT2H82"
+  },
+  {
+    "frota": "100259",
+    "placa": "RYW2J59"
+  },
+  {
+    "frota": "103079",
+    "placa": "RYW3D79"
+  },
+  {
+    "frota": "100032",
+    "placa": "RYW7C32"
+  },
+  {
+    "frota": "100132",
+    "placa": "RYZ7E23"
+  },
+  {
+    "frota": "104053",
+    "placa": "SXA4F53"
+  },
+  {
+    "frota": "105163",
+    "placa": "SXB5C63"
+  },
+  {
+    "frota": "108183",
+    "placa": "SXB8F83"
+  },
+  {
+    "frota": "109003",
+    "placa": "SXB9F03"
+  },
+  {
+    "frota": "100063",
+    "placa": "SXC0A63"
+  },
+  {
+    "frota": "105043",
+    "placa": "SXC5A43"
+  },
+  {
+    "frota": "107014",
+    "placa": "RYL7F14"
+  },
+  {
+    "frota": "108004",
+    "placa": "RYL8I04"
+  },
+  {
+    "frota": "108024",
+    "placa": "RYP8B24"
+  },
+  {
+    "frota": "102033",
+    "placa": "SXD2E33"
+  },
+  {
+    "frota": "101163",
+    "placa": "SXE1H63"
+  },
+  {
+    "frota": "107194",
+    "placa": "RYZ7I94"
+  },
+  {
+    "frota": "102154",
+    "placa": "RYU2G54"
+  },
+  {
+    "frota": "100001",
+    "placa": "NUI5B76"
+  },
+  {
+    "frota": "104054",
+    "placa": "SXH4B54"
+  },
+  {
+    "frota": "104043",
+    "placa": "SXH4H43"
+  },
+  {
+    "frota": "106074",
+    "placa": "SXH6A74"
+  },
+  {
+    "frota": "105105",
+    "placa": "RYT5J05"
+  },
+  {
+    "frota": "101094",
+    "placa": "SXC1C94"
+  },
+  {
+    "frota": "107063",
+    "placa": "SXH7H63"
+  },
+  {
+    "frota": "103134",
+    "placa": "SXB3E34"
+  },
+  {
+    "frota": "109004",
+    "placa": "SXB9D04"
+  },
+  {
+    "frota": "105025",
+    "placa": "SXF5J25"
+  },
+  {
+    "frota": "106076",
+    "placa": "RYV6I76"
+  },
+  {
+    "frota": "101164",
+    "placa": "RYZ9B64"
+  },
+  {
+    "frota": "102094",
+    "placa": "SXB2B94"
+  },
+  {
+    "frota": "103114",
+    "placa": "SXC3A14"
+  },
+  {
+    "frota": "106144",
+    "placa": "SXC6F44"
+  },
+  {
+    "frota": "102026",
+    "placa": "SXH2J26"
+  },
+  {
+    "frota": "103136",
+    "placa": "SXH3C36"
+  },
+  {
+    "frota": "109054",
+    "placa": "SXJ9H54"
+  },
+  {
+    "frota": "109056",
+    "placa": "SXK9J56"
+  },
+  {
+    "frota": "101014",
+    "placa": "SXF1C14"
+  },
+  {
+    "frota": "101054",
+    "placa": "SXF1C54"
+  },
+  {
+    "frota": "107067",
+    "placa": "SXE7J67"
+  },
+  {
+    "frota": "101154",
+    "placa": "SXF1D54"
+  },
+  {
+    "frota": "101057",
+    "placa": "SXH1D57"
+  },
+  {
+    "frota": "105047",
+    "placa": "SXK5J47"
+  },
+  {
+    "frota": "102076",
+    "placa": "SXL2J76"
+  },
+  {
+    "frota": "109068",
+    "placa": "SXB9E68"
+  },
+  {
+    "frota": "101006",
+    "placa": "SXM1D06"
+  },
+  {
+    "frota": "101016",
+    "placa": "SXM1E16"
+  },
+  {
+    "frota": "102066",
+    "placa": "SXM2B66"
+  },
+  {
+    "frota": "107157",
+    "placa": "SXO7B57"
+  },
+  {
+    "frota": "108058",
+    "placa": "SXG8G58"
+  },
+  {
+    "frota": "102158",
+    "placa": "SXH2F58"
+  },
+  {
+    "frota": "103068",
+    "placa": "SXH3A68"
+  },
+  {
+    "frota": "104008",
+    "placa": "SXH4D08"
+  },
+  {
+    "frota": "100066",
+    "placa": "SXM0E66"
+  },
+  {
+    "frota": "101046",
+    "placa": "SXN1H46"
+  },
+  {
+    "frota": "108007",
+    "placa": "SXH8F07"
+  },
+  {
+    "frota": "105006",
+    "placa": "SXN5H06"
+  },
+  {
+    "frota": "105096",
+    "placa": "SXO5J96"
+  },
+  {
+    "frota": "105196",
+    "placa": "SXP5I96"
+  },
+  {
+    "frota": "101263",
+    "placa": "SXC1B63"
+  },
+  {
+    "frota": "102160",
+    "placa": "SXD2G60"
+  },
+  {
+    "frota": "104031",
+    "placa": "SXH4E31"
+  },
+  {
+    "frota": "101363",
+    "placa": "SXU1C63"
+  },
+  {
+    "frota": "107074",
+    "placa": "SXL7A74"
+  }
 ]
