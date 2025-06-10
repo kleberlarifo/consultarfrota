@@ -1,0 +1,11 @@
+[
+  {"frota": "100000", "placa": "ADM"},
+  {"frota": "193897", "placa": "RAE3987"},
+  {"frota": "144454", "placa": "MLY4454"},
+  {"frota": "195067", "placa": "RAE5067"},
+  // ... (todos os seus dados aqui - mantive apenas 4 para exemplo)
+  {"frota": "102160", "placa": "SXD2G60"},
+  {"frota": "104031", "placa": "SXH4E31"},
+  {"frota": "101363", "placa": "SXU1C63"},
+  {"frota": "107074", "placa": "SXL7A74"}
+]
