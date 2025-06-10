@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consulta de Frota por Placa</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Consultar Frota</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>🔍 Consulta de Frota</h1>
-        <p>Digite a placa do veículo para encontrar o número da frota:</p>
-        
-        <input type="text" id="placa" placeholder="Ex: RAE3987" maxlength="7">
-        <button onclick="buscarFrota()">Buscar</button>
-        
+        <h1>Consulta de Frota</h1>
+        <div class="search-box">
+            <input type="text" id="numeroFrota" placeholder="Digite o número da frota">
+            <button onclick="buscarFrota()">Buscar</button>
+            <button onclick="limparResultado()">Limpar</button>
+        </div>
         <div id="resultado"></div>
+        <div id="loading" style="display: none;">Carregando dados...</div>
     </div>
-
     <script src="script.js"></script>
 </body>
 </html>
